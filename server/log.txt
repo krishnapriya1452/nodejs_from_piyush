@@ -1,0 +1,10 @@
+1717863352267: / New request received
+1717863361599: /contact New request received
+1717863372225: /search?search_query=javascript+tic+tac+toe New request received
+1717863428275: /about?myname=priya&userId=1 New request received
+
+urls visited:
+http://localhost:8000/
+http://localhost:8000/contact
+http://localhost:8000/search?search_query=javascript+tic+tac+toe
+http://localhost:8000/about?myname=priya&userId=1
